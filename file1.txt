@@ -1,3 +1,4 @@
 test file for Git
 added line 2
 
+Thi change was made under the feature branch
